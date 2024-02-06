@@ -1,0 +1,42 @@
+package com.example.componentszave.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+// custom colors
+val white = Color(0xFFFFFFFF)
+val black = Color(0xFF000000)
+val dark_theme_black_secondary = Color(0xD000000)
+val dark_theme_black_tertiary = Color(0xFF9A9A9A)
+val dark_theme_white_tertiary = Color(0x1AFFFFFF)
+val dark_theme_grey_primary = Color(0xFF7A7A7A)
+val dark_theme_grey_secondary = Color(0xFF999999)
+val dark_theme_grey_tertiary = Color(0xFF1C1C1C)
+val dark_theme_grey_light_primary = Color(0xFF323232)
+val dark_theme_grey_light_secondary = Color(0xFF808080)
+val dark_theme_grey_light_tertiary = Color(0xFFB1B1B1)
+val dark_theme_grey_medium_primary = Color(0xFFD2D2D2)
+val dark_theme_grey_medium_secondary = Color(0xFFECECEC)
+val dark_theme_grey_medium_tertiary = Color(0xFF434343)
+val dark_theme_grey_dark_primary = Color(0xFF888888)
+val dark_theme_grey_dark_secondary = Color(0xFF5C5C5C)
+val dark_theme_grey_dark_tertiary = Color(0xFF1D1D1D)
+val dark_theme_grey_extra_light_primary = Color(0xFF464646)
+val dark_theme_grey_extra_light_secondary = Color(0xFF1B1D20)
+val dark_theme_grey_extra_light_tertiary = Color(0xFFC0C0C0)
+val dark_theme_yellow_primary = Color(0xFF9CD91B)
+val dark_theme_yellow_secondary = Color(0xFFFFC700)
+val dark_theme_blue_primary = Color(0xFF434BFF)
+val dark_theme_green_primary = Color(0xFF3A9B67)
+val dark_theme_red_primary = Color(0xFFFF4258)
+val dark_theme_purple_primary = Color(0xFFB65EFF)
+val dark_theme_purple_secondary = Color(0xFFD2D3F7)
+val dark_theme_purple_tertiary = Color(0xFF9DA0FF)
+val dark_theme_purple_medium_primary = Color(0xFFB65DFF)
